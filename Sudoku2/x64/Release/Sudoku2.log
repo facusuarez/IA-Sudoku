@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Sudoku2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sudoku.cpp
+Sudoku.cpp(168): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+Sudoku.cpp(245): warning C4474: "sprintf_s": se pasaron demasiados argumentos para la cadena de formato
+  Sudoku.cpp(245): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+Sudoku.cpp(516): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+Sudoku.cpp(648): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código
+c:\users\facundo suarez\documents\visual studio 2017\projects\sudoku\sudoku2\sudoku.cpp(311): warning C4715: 'MetodosPrincipales::cargarImagen': no todas las rutas de acceso de control devuelven un valor
+  46 of 545 functions ( 8.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Sudoku2.vcxproj -> C:\Users\Facundo Suarez\Documents\Visual Studio 2017\Projects\SUDOKU\x64\Release\IA-SUDOKU.exe
+  Sudoku2.vcxproj -> C:\Users\Facundo Suarez\Documents\Visual Studio 2017\Projects\SUDOKU\x64\Release\IA-SUDOKU.pdb (Full PDB)

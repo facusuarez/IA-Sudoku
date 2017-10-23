@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Sudoku2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sudoku.cpp
+c:\users\facundo suarez\documents\visual studio 2017\projects\sudoku2\sudoku2\sudoku.cpp(381): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\facundo suarez\documents\visual studio 2017\projects\sudoku2\sudoku2\sudoku.cpp(512): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\facundo suarez\documents\visual studio 2017\projects\sudoku2\sudoku2\sudoku.cpp(176): warning C4715: 'MetodosPrincipales::cargarImagen': no todas las rutas de acceso de control devuelven un valor
+  Sudoku2.vcxproj -> C:\Users\Facundo Suarez\documents\visual studio 2017\Projects\Sudoku2\x64\Debug\IA-SUDOKU.exe
+  Sudoku2.vcxproj -> C:\Users\Facundo Suarez\documents\visual studio 2017\Projects\Sudoku2\x64\Debug\IA-SUDOKU.pdb (Full PDB)
